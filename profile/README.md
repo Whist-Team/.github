@@ -1,2 +1,1 @@
-# .github
-Whist Team Profile
+# Whist Team Profile
